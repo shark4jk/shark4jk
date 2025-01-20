@@ -50,6 +50,7 @@ Backend разработчик с фокусом на RAGE:MP. Специали�
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAGE:MP API-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FIVEM API-green?style=for-the-badge"/>
 </div>
 
 ---
