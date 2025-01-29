@@ -67,8 +67,8 @@ Backend разработчик с фокусом на RAGE:MP. Специали�
     <a href="https://t.me/whya144">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
-    <a href="https://discord.gg/gcaPJMGHEc">
-      <img src="https://img.shields.io/badge/Dev Studio-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="">
+      <img src="https://img.shields.io/badge/shark4jk-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 
  **Портфолио**: Доступно по запросу
