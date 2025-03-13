@@ -46,7 +46,7 @@ Backend разработчик с фокусом на RAGE:MP. Специали�
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c#-003545?style=for-the-badge&logo=c#&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/VUE-003545?style=for-the-badge&logo=vue&logoColor=green"/>
   <img src="https://img.shields.io/badge/webpack-003545?style=for-the-badge&logo=webpack&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
