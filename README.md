@@ -13,7 +13,7 @@
 
 ### 💻 Обо мне / About Me:
 
-Backend разработчик с фокусом на RAGE:MP. Специализируюсь на создании, редактировании и оптимизации модов.
+Fullstack разработчик с фокусом на RAGE:MP. Специализируюсь на создании, редактировании и оптимизации модов.
 
 - 🛠️ Разрабатываю системы "с нуля" и модифицирую существующие проекты
 - 🐛 Профессионально исправляю как мелкие, так и сложные баги
@@ -27,7 +27,7 @@ Backend разработчик с фокусом на RAGE:MP. Специали�
 
 <details>
   <summary align="center">click here</summary>
-  Backend developer with a focus on RAGE:MP. Specializes in creating, editing and optimizing mods.
+  Fullstack developer with a focus on RAGE:MP. Specializes in creating, editing and optimizing mods.
   
   - 🛠️ I develop systems from scratch and modify existing projects
   - 🐛 I professionally fix both minor and complex bugs
@@ -37,7 +37,7 @@ Backend разработчик с фокусом на RAGE:MP. Специали�
 
 ---
 <h1 align="center">
-  🛠️ Backend stack: 
+  🛠️ Fullstack stack: 
 </h1>
 
 <div align="center">
