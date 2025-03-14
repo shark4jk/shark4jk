@@ -54,7 +54,7 @@ Fullstack разработчик с фокусом на RAGE:MP. Специал�
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-4479A1?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-4479A1?style=for-the-badge&logo=git&logoColor=orange"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=black"/>
   <img src="https://img.shields.io/badge/RAGE%20MP-FF0000?style=for-the-badge&logo=rage&logoColor=white"/>
